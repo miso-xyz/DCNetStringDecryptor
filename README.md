@@ -14,5 +14,6 @@ String Decryptor for DC.NET Protector (tested on v1.1.0.1)
 ![decrypted](https://i.imgur.com/8Q6vW28.png)
 
 # Credits
+- dcsoft-yyf - <a href="https://github.com/dcsoft-yyf/DCNETProtector">Author of DC.NET Protector</a>
 - 0xd4d (now wtfsck) - <a href="https://github.com/0xd4d/dnlib">dnlib</a>
 - Reverse X Discord server
